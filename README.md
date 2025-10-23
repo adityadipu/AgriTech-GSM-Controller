@@ -54,5 +54,4 @@ The working prototype, showing the "Heating Lamp" turned on via SMS.
 ## Code
 
 The main Arduino code for this project is available in this repository:
-* (agri_tech.ino) 
-
+* [`SMS_Automated_Thermostat.ino`](./SMS_Automated_Thermostat.ino)
